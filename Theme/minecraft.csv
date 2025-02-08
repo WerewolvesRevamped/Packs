@@ -75,7 +75,7 @@ Huntsman,Salmon
 Idiot,Armadillo
 Infecting Wolf,Bogged
 Innkeeper,Squid
-Journal Holder,Jukebox Holder
+Journal Holder,Jukebox Record Holder
 Journalist,Allay
 Juror,Cold Cow
 Knowledgeable Wolf,Pumpkin Zombie
@@ -128,6 +128,7 @@ Wager Recipient,Trade Offer Recipient
 Wager,Trade Offer
 Warlock,Vex
 White Werewolf,Wither
+White Wolves,Wither
 Wisp,Slime
 Witch,Dyed Cat
 Wolf Cub,Baby Zombie
@@ -204,3 +205,11 @@ fall in love with,select
 love overrides any other mechanic,template overrides any other mechanic
 falling in love with each other,selecting each other
 Cult,Stable
+Town,Animal
+Packless,Non-Mob Spawner
+Coyote,Flying Nether Monster
+Journal,Jukebox Record
+Jury,Cows of Cold
+Extra Elected,Extra Ore
+Holy Water,Fangs
+Laboratory,Forest
