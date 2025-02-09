@@ -72,7 +72,7 @@ Horseman Of Death,Bear
 Horseman Of Famine,Bear
 Horseman Of Pestilence,Bear
 Horseman Of War,Bear
-Horsemen,Bear
+Horsemen,Bearmen
 Howling Wolf,Bear
 Huntress,Bear
 Huntsman,Bear
@@ -115,7 +115,8 @@ Runner,Bear
 Saboteur Wolf,Bear
 Scared Wolf,Bear
 Sneaking Wolf,Bear
-Souls,Bear
+Soul,Bear
+Souls,Bears
 Spiritual,Bear
 Spiritualist,Bear
 Stalker,Bear
@@ -138,21 +139,32 @@ Witch,Bear
 Wolf Cub,Bear
 Wolf,Bear
 Hag,Bear
+Tattletale,Bear
+Cursebearer,Bear
 Townsfolk,Bearsfolk
 Hell,Bear-Hell
 Plague,Bear Disease
 Pyro,Byro
+Underworld,Bearworld
 Roles,Species
 Role,Species
 Lycans,Ursi
 Lycan,Ursus
 Rodents,Infected Bear Cubs
 Rodent,Infected Bear Cub
+White Werewolf, Polar Bear
+White Werewolves, Polar Bears
 Werewolves,Werebears
 Wolves,Bears
+Werewolf.Werebear
 Unaligned,Unabeared
 Lynched,Mauled
 Lynch,Mauling
 Lynches,Maulings
 Coven,Sloth of Bears
 Player,Mammal
+Doom,Hibernate
+Dooming,Hibernating
+Doomed,Hibernated
+Doomsday,Bearsday
+Killing,Mauling
