@@ -3,27 +3,29 @@ Alpha Wolf,Silver Boss Bokoblin
 Amnesiac,Link
 Amulet Crafter,Bludo
 Amulet Of Protection,Stone Smasher
+Amulet of Protection,Stone Smasher
 Angel,Hylia Statue
 Apocalyptic Horseman,Calamity Ganon
+Apocalyptic Horsemen,Calamity Ganons
 Apothecary,Qia
 Archivist Fox,Chuchu
 Assassin,Young Impa
 Assistant,Josha
+The Aura Teller,The Great Deku Tree
+the Aura Teller,the Great Deku Tree
 Aura Teller,Great Deku Tree
-Baker,Great Fairy
 Bakers,Great Faries
+Baker,Great Fairy
 Revenant,Fuse
 Banshee,Ascend
-Barber,Ardi
 Baroness,Lynel
 Bartender,Kass
-Bitter Hag,Demon Dragon
 Bloody Butcher,Harbringer Ganon
 Butcher,Terrako
+Guardian,Protector
 Cat,Guardian
 Cautious Hag,Naydra
 Chef,Culinary Construct
-Child,Koko
 Citizen,Yunobo
 Clairvoyant Fox,Electric Chuchu
 Cleric,Mipha
@@ -31,14 +33,15 @@ Coroner,Pikango
 Corrupt Wolf,Blue Moblin
 Crowd Seeker,Cece
 Cult Leader,Urbosa
-Cult,Gerudo Royalty
 Cult Member,Riju
-Cultist Wolf,Twinrova
-Cupid,Stone Talus
+Cult,Gerudo Royalty
+Cultist Wolf,Koume and Kotake
 Cupid Hag,Stone Talus (Luminous)
 Cupid Wolf,Battle Talus
+Undead Cupid,Frost Talus
 Cursed Civilian,Horned Statue
 Demonic Cupid,Igneo Talus
+Cupid,Stone Talus
 Despot,Training Construct
 Detective,Steward Construct
 Devil,Queen Gibdo
@@ -50,26 +53,27 @@ Executioner,Daruk
 Exorcist,Beedle
 Fenrir,Boss Bokoblin
 Firebug,Fire Keese
-Fletcher,Calamo
 Fletcher's Customer,Calamo's Seed Holder
+Fletcher’s Customer,Calamo’s Seed Holder
+Fletcher,Calamo
 Flute Apprentice,Koltin
 Flute Charmer,Bubbulfrog
 Flute Player,Kilton
 Fortune Apprentice,Yona
 Fortune Teller,Sidon
 Gallant Fox,Ice Chuchu
+Grandmas House,Kakariko
 Grandma,Impa
 Grave Robber,Forge Construct
 Gravekeeper,Soldier Construct
 Greater Coyote,Treasure Octorok
-Guardian,Protector
 Herald,Hestu
 Hooker,Zelda
-Horseman,Phantom Ganon
 Horseman Of Death,Thunderblight Ganon
 Horseman Of Famine,Waterblight Ganon
 Horseman Of Pestilence,Windblight Ganon
 Horseman Of War,Fireblight Ganon
+Horseman,Phantom Ganon
 Howling Wolf,Black Boss Bokoblin
 Huntress,Revali
 Huntsman,Sonia
@@ -87,9 +91,9 @@ Lover,Captain Construct III
 Macho,Agraston
 Mad Scientist,Robbie
 Mayor,Leader
+Spirit,Stalkoblin
 Medium,Spirit Zelda
 Monarch,King Rhoam
-None,Mysterious Construct
 Oracle,Bolson
 Pack Tanner,Frox
 Plague Bearer,Sludge Like
@@ -118,21 +122,19 @@ Stalker,Penn
 Tanner,Molduga
 Test Subject,Robbie's Test Subject
 The Hags,The Dragons
+Coven,Dragons
 Town Crier,Muzu
 Tracking Wolf,Silver Moblin
 Trickster,Purah
 Undead,Yiga Footsolider
-Undead Cupid,Frost Talus
 Vampire,Master Kohga
 Vicious Hag,Dinraal
 Wager,Offer
 Wager Recipient,Queen Gibdo's Offer
-Warlock,Astor
 White Werewolf,Ganondorf
 Wisp,Fire Wizzrobe
 Witch,Malanya
 Wolf Cub,Bokoblin
-Hag,Light Dragon
 Townsfolk,Hyruleans
 Hell,Gibdo
 Plague,Sludge
@@ -141,14 +143,13 @@ Lycans,Blins
 Lycan,Blin
 Werewolves,Monsters
 Werewolf,Monster
-Wolves,Monsters
 Bard,Mastro
 Bear,Bear
 Underworld,Yiga
 Flute,Fang and Bone
 Tattletale,Hudson
-Wolf,Blue Bokoblin
 Demon,Moth Gibdo
+Bitter Hag,Demon Dragon
 Cursebearer,Karson
 Wolfpack,Blin Group
 Disease,Sludge
@@ -157,14 +158,16 @@ Imp,Gibdo
 Hellhound,Black Horriblin
 Raven,All-seeing Helmet
 Wild Child,Tulin
+Child,Koko
 Blessed Wolf,Blue Boss Bokoblin
 Perceptive Warlock,Moragia
+Warlock,Astor
 Master Barber,Jerrin
+Barber,Ardi
 Corrupted,Corrupted
 Monk,Monk Maz Koshia
 Guardsman,Cado
 Ghostly,Luminous
-Grandmas House,Kakariko
 Hexed Wolf,Black Moblin
 Farmer,Dorian
 Ferocious Wolf,Hinox
@@ -185,18 +188,26 @@ Ice Prince,Ice Wizzrobe
 Apprentice,Flux Construct
 Reaper,Stalnox
 Wraith,Stalmoblin
-Spirit,Stalkoblin
 Immortal,Stalizalfos
 White Wolves,Ganondorf
+Nightmare,Stal
 Laboratory,Robbie's Laboratory
-Ice Royal,Ice Elemental
+Ice Royals,Ice Elemental
 Amulet,Smasher
 Rodent,Sludge
+Hag,Light Dragon
 Lynches,Executions
 Lynched,Executed
-Lynch,Execute
+One Lynch,One Execution
+The Lynch,The Lynch
+lynch,execute
+Lynch,Execution
 Elected,Anointed
 Wolfish,Malicious
+Player,Character
+Doomed,Cursed
+Dooming,Cursing
+Doom,Curse
 Soulless,Boneless
 Masking Cry,Masking Grunt
 Striking Cry,Striking Grunt
@@ -206,4 +217,20 @@ Town,Hyrule
 Packless,Blin Groupless
 Coyote,Octorok
 Journal,Rumor Mill
+Jury,Zora Royalty
 Fox,Chu
+Luffy,King Gleeok
+Vera,Colgera
+Jay,Marbled Gohma
+Ethan,Seized Construct
+Evil Ts,Demon King Ganondorf
+Administrator,Mysterious Construct
+Wolves,Monsters
+Wolf,Blue Bokoblin
+sleeps with another player,hides in another player's house
+they’re sleeping with,whose house they're hiding at
+they are sleeping with,whose house they are hiding at
+player to sleep with,player's house to hide at
+will stay with that player,will stay at that player's house
+not to sleep with anybody,not to hide
+may not sleep with the same player,may not hide at the same player's house
