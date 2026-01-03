@@ -14,7 +14,7 @@ Assistant,Josha
 The Aura Teller,The Great Deku Tree
 the Aura Teller,the Great Deku Tree
 Aura Teller,Great Deku Tree
-Bakers,Great Faries
+Bakers,Great Fairies
 Baker,Great Fairy
 Revenant,Fuse
 Banshee,Ascend
@@ -34,6 +34,8 @@ Corrupt Wolf,Blue Moblin
 Crowd Seeker,Cece
 Cult Leader,Urbosa
 Cult Member,Riju
+Cultists,Gerudo Royalty
+Cultist,Gerudo Royalty
 Cult,Gerudo Royalty
 Cultist Wolf,Koume and Kotake
 Cupid Hag,Stone Talus (Luminous)
@@ -55,6 +57,7 @@ Fenrir,Boss Bokoblin
 Firebug,Fire Keese
 Fletcher's Customer,Calamo's Seed Holder
 Fletcher’s Customer,Calamo’s Seed Holder
+the customer’s power,the seed holder’s power
 Fletcher,Calamo
 Flute Apprentice,Koltin
 Flute Charmer,Bubbulfrog
@@ -62,6 +65,7 @@ Flute Player,Kilton
 Fortune Apprentice,Yona
 Fortune Teller,Sidon
 Gallant Fox,Ice Chuchu
+Grandma's House,Kakariko
 Grandmas House,Kakariko
 Grandma,Impa
 Grave Robber,Forge Construct
@@ -69,6 +73,10 @@ Gravekeeper,Soldier Construct
 Greater Coyote,Treasure Octorok
 Herald,Hestu
 Hooker,Zelda
+Horseman of Death,Thunderblight Ganon
+Horseman of Famine,Waterblight Ganon
+Horseman of Pestilence,Windblight Ganon
+Horseman of War,Fireblight Ganon
 Horseman Of Death,Thunderblight Ganon
 Horseman Of Famine,Waterblight Ganon
 Horseman Of Pestilence,Windblight Ganon
@@ -87,6 +95,7 @@ Knowledgeable Wolf,Black Bokoblin
 Lesser Coyote,Rock Octorok
 Lone Warlock,Aerocuda
 Lone Wolf,Black Hinox
+lover,captain construct III
 Lover,Captain Construct III
 Macho,Agraston
 Mad Scientist,Robbie
@@ -151,7 +160,7 @@ Tattletale,Hudson
 Demon,Moth Gibdo
 Bitter Hag,Demon Dragon
 Cursebearer,Karson
-Wolfpack,Blin Group
+Wolfpack,Horde
 Disease,Sludge
 Bat,Sooga
 Imp,Gibdo
@@ -169,6 +178,8 @@ Monk,Monk Maz Koshia
 Guardsman,Cado
 Ghostly,Luminous
 Hexed Wolf,Black Moblin
+Scarecrow,Scarecrow
+Farming Wolf,Yiga Blademaster
 Farmer,Dorian
 Ferocious Wolf,Hinox
 Horsemen,Blights
@@ -198,23 +209,27 @@ Rodent,Sludge
 Hag,Light Dragon
 Lynches,Executions
 Lynched,Executed
-One Lynch,One Execution
-The Lynch,The Lynch
+one lynch,one execution
+the lynch,the execution
+a lynch,an execution
+additional lynch,additional execution
 lynch,execute
 Lynch,Execution
 Elected,Anointed
 Wolfish,Malicious
 Player,Character
+Doomsday,XXXday
 Doomed,Cursed
 Dooming,Cursing
 Doom,Curse
+XXXday,Doomsday
 Soulless,Boneless
 Masking Cry,Masking Grunt
 Striking Cry,Striking Grunt
 Cry,Grunt
 Cries,Grunts
 Town,Hyrule
-Packless,Blin Groupless
+Packless,Hordeless
 Coyote,Octorok
 Journal,Rumor Mill
 Jury,Zora Royalty
