@@ -34,10 +34,10 @@ Corrupt Wolf,Blue Moblin
 Crowd Seeker,Cece
 Cult Leader,Urbosa
 Cult Member,Riju
+Cultist Wolf,Koume and Kotake
 Cultists,Gerudo Royalty
 Cultist,Gerudo Royalty
 Cult,Gerudo Royalty
-Cultist Wolf,Koume and Kotake
 Cupid Hag,Stone Talus (Luminous)
 Cupid Wolf,Battle Talus
 Undead Cupid,Frost Talus
@@ -179,8 +179,9 @@ Guardsman,Cado
 Ghostly,Luminous
 Hexed Wolf,Black Moblin
 Scarecrow,Scarecrow
-Farming Wolf,Yiga Blademaster
+Farming Wolf,Malice Boss Bokoblin
 Farmer,Dorian
+Ritualist Wolf,Malice Moblin
 Ferocious Wolf,Hinox
 Horsemen,Blights
 Horrifying Wolf,Horriblin
@@ -213,16 +214,16 @@ one lynch,one execution
 the lynch,the execution
 a lynch,an execution
 additional lynch,additional execution
+upcoming lynch,upcoming execution
 lynch,execute
 Lynch,Execution
 Elected,Anointed
 Wolfish,Malicious
 Player,Character
-Doomsday,XXXday
+Doomsday,Calamity
 Doomed,Cursed
 Dooming,Cursing
 Doom,Curse
-XXXday,Doomsday
 Soulless,Boneless
 Masking Cry,Masking Grunt
 Striking Cry,Striking Grunt
