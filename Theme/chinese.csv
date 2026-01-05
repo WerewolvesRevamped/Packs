@@ -11,6 +11,8 @@ Apothecary,药剂师
 Archivist Fox,档案狐
 Assassin,刺客
 Assistant,助理
+The Aura Teller,灵气感知师
+the Aura Teller,灵气感知师
 Aura Teller,灵气感知师
 Bakers,面包师
 Baker,面包师
@@ -138,6 +140,7 @@ Undead,亡灵
 Vampire,吸血鬼
 Vicious Hag,狠毒女巫
 Wager,赌注
+Wagers,赌注
 Wager Recipient,赌注对象
 White Werewolf,白狼王
 Wisp,青烟
@@ -228,22 +231,27 @@ Solo,单人
 Wolfish,狼类
 Demonized,被妖魔化
 Demonize,妖魔化
+Demonizes,妖魔化
+Demonizing,妖魔化
 Holy Water,圣水
 Dies,死去
 Die,死去
 Dying,将要死去
 Player,玩家
 Powder,火药
+Powders,撒火药
 Powdered,被撒火药
 Powdering,撒火药
 Knives,刀
 Ignite,点火
+Ignites,点火
 Igniting,点火
 Ignition,点火
 Doomsday,末日
 Doomed,被毁灭
 Dooming,毁灭
 Doom,毁灭
+Dooms,毁灭
 Soulless,无心者
 Apocalypse,末日
 Vial,管
@@ -264,3 +272,11 @@ Fox,狐
 Administrator,管理员
 Wolves,狼
 Wolf,狼
+Team,阵营
+Miscellaneous,其他
+Power,能力
+Investigative,侦查
+Killing,击杀
+Group,团队
+Align,对齐
+Elected,当选
