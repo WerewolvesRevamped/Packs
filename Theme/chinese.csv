@@ -222,6 +222,7 @@ additional lynch,多一场绞刑
 upcoming lynch,下一场绞刑
 lynch,绞刑
 Lynch,绞刑
+be Killed,被杀
 Killed,被杀
 Kills,击杀
 Killing,击杀
@@ -274,10 +275,10 @@ Wolves,狼
 Wolf,狼
 Team,阵营
 Miscellaneous,其他
+Powers,能力
 Power,能力
 Investigative,侦查
 Killing,击杀
 Group,团队
 Align,对齐
 Elected,当选
-Powers,能力
