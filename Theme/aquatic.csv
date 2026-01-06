@@ -121,7 +121,7 @@ Runner,Australian Rainbow Fish
 Saboteur Wolf,Jewel Cichlid
 Scared Wolf,Bolivian Ram
 Sneaking Wolf,Mbuna Cichlid
-Soul,Algae Protection
+Soul,Nutrient
 Spiritualist,Black Molly
 Stalker,Blind Cave Tetra
 Tanner,Rainbow Shark
@@ -140,7 +140,7 @@ White Werewolf,Snow White Cichlid
 Wisp,Polkadot Stingray
 Witch,Silver Dollar
 Wolf Cub,Cichlid Fry
-Townsfolk,Community Fish
+Townsfolk,Community FIsh
 Hell,Algae
 Plague,Pest Snail
 Pyro,Stingray
@@ -205,9 +205,9 @@ lynch,euthanization
 Lynch,Euthanization
 Solo,Other Aquatic Life
 Wolfish,Aggressive
-Demonized,Hydra-infected
-Demonize,Hydra-infect
-Demonizing,Hydra-infecting
+Demonized,Hydra-attached
+Demonizing,Hydra-attaching
+Demonize,Hydra-attach
 Holy Water,Clove Oil
 Player,Aquatic life
 Powder,Sting
@@ -218,10 +218,10 @@ Ignite,Electrocute
 Igniting,Electrocuting
 Ignition,Electrocution
 Doomsday,Piranha Time
-Doomed,Biten
+Doomed,Bitten
 Dooming,Biting
 Doom,Bite
-Soulless,Algae-infected
+Soulless,Nutrientless
 Apocalypse,Piranha Time
 Vial,Dose
 Masking Cry,Fish Antibiotic
