@@ -5,8 +5,8 @@ Amulet Crafter,Koi Fish
 Amulet Of Protection,Lifesaving Antibiotic
 Amulet of Protection,Lifesaving Antibiotic
 Angel,Redtail Catfish
-Apocalyptic Horseman,Piranha
-Apocalyptic Horsemen,Piranhas
+Apocalyptic Horseman,Apocalyptic Piranha
+Apocalyptic Horsemen,Apocalyptic Piranhas
 Apothecary,Sparkling Gourami
 Archivist Fox,Angelfish
 Assassin,Bandit Cory
@@ -20,7 +20,7 @@ Baroness,Apistogramma
 Bartender,Red Eye Guppy
 Bloody Butcher,Common Pleco
 Butcher,Bristlenose Pleco
-Guardian,Tinfoil Barb
+Guardian,Protector Fish
 Cautious Hag,Amano Shrimp
 Chef,Bichir
 Citizen,Feeder Fish
@@ -35,9 +35,8 @@ Cultist Wolf,Wolf Fish
 Cultists,Crayfish
 Cultist,Crayfish
 Cult,Crayfish
-Cupid Hag,Cherry Shrimp
 Cupid Wolf,Kissing Gourami
-Undead Cupid,Immune Guppy
+Undead Cupid,Parasitic Guppy
 Cursed Civilian,Skunk Corydora
 Demonic Cupid,Siamese Algae Eater
 Cupid,Golden Guppy
@@ -55,9 +54,9 @@ Fletcher's Customer,Nerite Snail's Egg Receiver
 Fletcher’s Customer,Nerite Snail's Egg Receiver
 the customer’s power,Egg receiver's power
 Fletcher,Nerite Snail
-Flute Apprentice,Java Moss
-Flute Charmer,Java Fern
-Flute Player,Bucephalandra
+Flute Apprentice,Ghost Shrimp
+Flute Charmer,Crystal Shrimp
+Flute Player,Cherry Shrimp
 Fortune Apprentice,Gourami Fry
 Fortune Teller,Pearl Gourami
 Gallant Fox,Flowerhorn Cichlid
@@ -95,8 +94,7 @@ lover,breeding pair
 Lover,Breeding Pair
 Macho,Boesemani Rainbowfish
 Mad Scientist,Glofish
-Mayor,Bettafish
-Spirit,Fish Spirit
+Mayor,Show Fish
 Medium,Killifish
 Monarch,Flame Dwarf Gourami
 Oracle,Marble Hatchet
@@ -106,14 +104,13 @@ Plague Carrier,Pond Snail
 Plague Doctor,Assassin Snail
 Poltergeist,Black Harlequin Rasbora
 Priest,Gold Dust Molly
-Prophetic Hag,Pinto Shrimp
 Psychic Wolf,Wolf Cichlid
 Psychopath,Gar
 Pyromancer,Ocellate River Stingray
 Ranger,Peppered Cory
 Ravenkeeper,Panda Barb
 Recluse,Albino Oscar
-Reporter,Zebra Pleco
+Reporter,Spy Fish
 Restaurant Customer,Bichir's Friend
 Riding Hood,Grey Spotted Puffer
 Royal Knight,Giant Gourami
@@ -126,14 +123,12 @@ Spiritualist,Black Molly
 Stalker,Blind Cave Tetra
 Tanner,Rainbow Shark
 Test Subject,Glofish-to-be
-The Hags,The Shrimps
 Coven,Shrimp Tank
 Town Crier,Glowlight Tetra
 Tracking Wolf,Convict Cichlid
 Trickster,Glass Catfish
-Undead,Hydra-infected
+Undead,Parasite-infected
 Vampire,Hydra
-Vicious Hag,Ghost Shrimp
 Wager,Algae Spore
 Wager Recipient,Algae Spore Recipient
 White Werewolf,Snow White Cichlid
@@ -141,7 +136,7 @@ Wisp,Polkadot Stingray
 Witch,Silver Dollar
 Wolf Cub,Cichlid Fry
 Townsfolk,Community FIsh
-Hell,Algae
+Hell,Algae Tank
 Plague,Pest Snail
 Pyro,Stingray
 Roles,Species
@@ -150,11 +145,10 @@ Lycans,Aggressive Fish
 Lycan,Aggressive Fish
 Werewolves,Aggressive Fish
 Werewolf,Aggressive Fish
-Underworld,Hydra
-Flute,Aquatic Plants
+Underworld,Parasite
+Flute,Bug
 Tattletale,Clown Rasbora
 Demon,Blue Green Algae
-Bitter Hag,Bamboo Shrimp
 Cursebearer,Desert Rainbowfish
 Wolfpack,Aggressive Fish Tank
 Disease,Snail Infestation
@@ -162,12 +156,8 @@ Bat,Green Water
 Imp,Black Beard Algae
 Hellhound,Green Spot Algae
 Raven,Panda Barb Fry
-Wild Child,Wild Fry
 Child,Fish Fry
-Blessed Wolf,Keyhole Cichlid
-Perceptive Warlock,Perceptive Pea Puffer
 Warlock,Pea Puffer
-Master Barber,Master Rose Danio
 Barber,Rose Danio
 Corrupted,Salted
 Monk,Blck Moor Goldfish
@@ -205,15 +195,15 @@ lynch,euthanization
 Lynch,Euthanization
 Solo,Other Aquatic Life
 Wolfish,Aggressive
-Demonized,Hydra-attached
-Demonizing,Hydra-attaching
-Demonize,Hydra-attach
+Demonized,Attached
+Demonizing,Attaching
+Demonize,Attach
 Holy Water,Clove Oil
 Player,Aquatic life
 Powder,Sting
 Powdered,Stung
 Powdering,Stinging
-Knives,Fishing hooks
+Knives,Fishing Hooks
 Ignite,Electrocute
 Igniting,Electrocuting
 Ignition,Electrocution
@@ -228,6 +218,9 @@ Masking Cry,Fish Antibiotic
 Striking Cry,Striking Dart
 Cry,Dart
 Cries,Darts
+Enchant,Clean
+Enchanted,Cleaned
+Enchanting,Cleaning
 Town,Community Fish
 Packless,Solitary Aggressive Fish
 Coyote,Discus
@@ -243,3 +236,4 @@ player to sleep with,aquatic life to swim with
 will stay with that player,with swim with that aquatic life
 not to sleep with anybody,not to swim with any aquatic life
 may not sleep with the same player,may not swim with the same aquatic life
+write,birth
