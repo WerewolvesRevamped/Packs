@@ -1,0 +1,258 @@
+Reaper,#-1-#
+Shepherd,#-2-#
+Spirit,#-3-#
+The Thing,#-4-#
+Undead,#-5-#
+Vampire,#-6-#
+White Werewolf,#-7-#
+Wisp,#-8-#
+Wraith,#-9-#
+Zombie,#-10-#
+Pyromancer,#-11-#
+Plague Carrier,#-12-#
+Plague Bearer,#-13-#
+Last Living Wolf,#-14-#
+Last Living Citizen,#-15-#
+Last Living Baby Wolf,#-16-#
+Lamb,#-17-#
+Imp,#-18-#
+Immortal,#-19-#
+Horseman of War,#-20-#
+Horseman of Pestilence,#-21-#
+Horseman of Famine,#-22-#
+Horseman of Death,#-23-#
+Horseman,#-24-#
+Herding Dog,#-25-#
+Grayish Werewolf,#-26-#
+Gray Werewolf,#-27-#
+Flute Player,#-28-#
+Flute Charmer,#-29-#
+Flute Apprentice,#-30-#
+Firebug,#-31-#
+Devil,#-32-#
+Demonic Cupid,#-33-#
+Demon,#-34-#
+Cupid Hag,#-35-#
+Cryptographer,#-36-#
+Corpse,#-37-#
+Cerberus,#-38-#
+Bitter Hag,#-39-#
+Bat,#-40-#
+Apocalyptic Lamb,#-41-#
+Apocalyptic Horseman,#-42-#
+Amnesiac,#-43-#
+Apothecary,#-44-#
+Assassin,#-45-#
+Assistant,#-46-#
+Aura Teller,#-47-#
+Baker,#-48-#
+Barber,#-49-#
+Bartender,#-50-#
+Butcher,#-51-#
+Child,#-52-#
+Citizen,#-53-#
+Cleric,#-54-#
+Coroner,#-55-#
+Crowd Seeker,#-56-#
+Cult Leader,#-57-#
+Cult Member,#-58-#
+Cursebearer,#-59-#
+Cursed Civilian,#-60-#
+Devout Villager,#-61-#
+Executioner,#-62-#
+Exorcist,#-63-#
+Farmer,#-64-#
+Fletcher,#-65-#
+Fortune Apprentice,#-66-#
+Fortune Teller,#-67-#
+Grandma,#-68-#
+Guardsman,#-69-#
+Hooker,#-70-#
+Idiot,#-71-#
+Innkeeper,#-72-#
+Journalist,#-73-#
+Juror,#-74-#
+Macho,#-75-#
+Mad Scientist,#-76-#
+Medium,#-77-#
+Oracle,#-78-#
+Priest,#-79-#
+Ranger,#-80-#
+Royal Knight,#-81-#
+Runner,#-82-#
+Stalker,#-83-#
+Tattletale,#-84-#
+Trickster,#-85-#
+Witch,#-86-#
+Zombified Cupid,Reaper
+Vicious Hag,Shepherd
+Unemployed Chef,Spirit
+Undead Cupid,The Thing
+Thief,Undead
+Swindler,Vampire
+Spectral Cupid,White Werewolf
+Rival,Wisp
+Riding Hood,Wraith
+Raccoon,Zombie
+Psychopath,Pyromancer
+Prophetic Hag,Plague Carrier
+Plagued Cupid,Plague Bearer
+Plague Doctor,Last Living Wolf
+None,Last Living Citizen
+Lupine Cupid,Last Living Baby Wolf
+Loyal Cupid,Lamb
+Look-Alike,Imp
+Immune Survivor,Immortal
+Hag,Horseman of War
+Grave Robber,Horseman of Pestilence
+Golem,Horseman of Famine
+Flaming Cupid,Horseman of Death
+Dog,Horseman
+Detective,Herding Dog
+Despot,Grayish Werewolf
+Cupid Wraith,Gray Werewolf
+Cupid Wolf,Flute Player
+Cupid,Flute Charmer
+Chef,Flute Apprentice
+Cautious Hag,Firebug
+Cat,Devil
+Burglar,Demonic Cupid
+Bear,Demon
+Apprentice,Cupid Hag
+Apocalyptic Cupid,Cryptographer
+Angel,Corpse
+Alternative Zombified Cupid,Cerberus
+Alternative Look-Alike,Bitter Hag
+Alternative Dog,Bat
+Alternative Cupid,Apocalyptic Lamb
+Duck,Apocalyptic Horseman
+Knowledgeable Wolf,Amnesiac
+Infecting Wolf,Apothecary
+Fenrir,Assassin
+Pack Tanner,Assistant
+Tracking Wolf,Aura Teller
+Hellhound,Baker
+Ferocious Fox,Barber
+Baroness,Bartender
+Bloody Butcher,Butcher
+Wolf Cub,Child
+Direwolf,Cleric
+Archivist Fox,Coroner
+Psychic Wolf,Crowd Seeker
+Ferocious Wolf,Cult Leader
+Cultist Wolf,Cult Member
+Packless Wolf,Cursebearer
+Sneaking Wolf,Cursed Civilian
+Alpha Wolf,Devout Villager
+Executioner Wolf,Executioner
+Horrifying Wolf,Exorcist
+Farming Wolf,Farmer
+Ritualist Wolf,Fletcher
+Lone Warlock,Fortune Apprentice
+Warlock,Fortune Teller
+Corrupt Wolf,Grandma
+Lone Bloody Butcher,Guardsman
+Blessed Wolf,Hooker
+Recluse,Idiot
+Saboteur Wolf,Innkeeper
+Tanner,Journalist
+Lesser Coyote,Juror
+Greater Coyote,Macho
+Curse Caster,Mad Scientist
+Hexed Wolf,Medium
+Keen Coyote,Oracle
+Lone Wolf,Priest
+Disguised Fox,Ranger
+Gallant Fox,Royal Knight
+Scared Wolf,Runner
+Stalker Wolf,Stalker
+Clairvoyant Fox,Tattletale
+Trickster Wolf,Trickster
+Howling Wolf,Witch
+Wolf,Citizen
+#-1-#,Zombified Cupid
+#-2-#,Vicious Hag
+#-3-#,Unemployed Chef
+#-4-#,Undead Cupid
+#-5-#,Thief
+#-6-#,Swindler
+#-7-#,Spectral Cupid
+#-8-#,Rival
+#-9-#,Riding Hood
+#-10-#,Raccoon
+#-11-#,Psychopath
+#-12-#,Prophetic Hag
+#-13-#,Plagued Cupid
+#-14-#,Plague Doctor
+#-15-#,None
+#-16-#,Lupine Cupid
+#-17-#,Loyal Cupid
+#-18-#,Look-Alike
+#-19-#,Immune Survivor
+#-20-#,Hag
+#-21-#,Grave Robber
+#-22-#,Golem
+#-23-#,Flaming Cupid
+#-24-#,Dog
+#-25-#,Detective
+#-26-#,Despot
+#-27-#,Cupid Wraith
+#-28-#,Cupid Wolf
+#-29-#,Cupid
+#-30-#,Chef
+#-31-#,Cautious Hag
+#-32-#,Cat
+#-33-#,Burglar
+#-34-#,Bear
+#-35-#,Apprentice
+#-36-#,Apocalyptic Cupid
+#-37-#,Angel
+#-38-#,Alternative Zombified Cupid
+#-39-#,Alternative Look-Alike
+#-40-#,Alternative Dog
+#-41-#,Alternative Cupid
+#-42-#,Duck
+#-43-#,Knowledgeable Wolf
+#-44-#,Infecting Wolf
+#-45-#,Fenrir
+#-46-#,Pack Tanner
+#-47-#,Tracking Wolf
+#-48-#,Hellhound
+#-49-#,Ferocious Fox
+#-50-#,Baroness
+#-51-#,Bloody Butcher
+#-52-#,Wolf Cub
+#-53-#,Wolf
+#-54-#,Direwolf
+#-55-#,Archivist Fox
+#-56-#,Psychic Wolf
+#-57-#,Ferocious Wolf
+#-58-#,Cultist Wolf
+#-59-#,Packless Wolf
+#-60-#,Sneaking Wolf
+#-61-#,Alpha Wolf
+#-62-#,Executioner Wolf
+#-63-#,Horrifying Wolf
+#-64-#,Farming Wolf
+#-65-#,Ritualist Wolf
+#-66-#,Lone Warlock
+#-67-#,Warlock
+#-68-#,Corrupt Wolf
+#-69-#,Lone Bloody Butcher
+#-70-#,Blessed Wolf
+#-71-#,Recluse
+#-72-#,Saboteur Wolf
+#-73-#,Tanner
+#-74-#,Lesser Coyote
+#-75-#,Greater Coyote
+#-76-#,Curse Caster
+#-77-#,Hexed Wolf
+#-78-#,Keen Coyote
+#-79-#,Lone Wolf
+#-80-#,Disguised Fox
+#-81-#,Gallant Fox
+#-82-#,Scared Wolf
+#-83-#,Stalker Wolf
+#-84-#,Clairvoyant Fox
+#-85-#,Trickster Wolf
+#-86-#,Howling Wolf
