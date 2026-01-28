@@ -109,7 +109,6 @@ Ranger,Peppered Cory
 Ravenkeeper,Panda Barb
 Recluse,Albino Oscar
 Reporter,Spy Fish
-Restaurant Customer,Bichir's Friend
 Riding Hood,Grey Spotted Puffer
 Royal Knight,Giant Gourami
 Runner,Australian Rainbow Fish
@@ -155,6 +154,7 @@ Raven,Panda Barb Fry
 Child,Fish Fry
 Warlock,Pea Puffer
 Barber,Rose Danio
+Corrupted,Salted
 Corrupt,Salt
 Monk,Blck Moor Goldfish
 Guardsman,Bleeding Heart Tetra
@@ -178,7 +178,7 @@ Nightmare,Black Betta
 Laboratory,Glo Tank
 Amulet,Antibiotic
 Rodent,Pest Snail Egg
-Hag,Shrimp
+Hag,Frogs
 Unaligned,Rare Aquatic Life
 Lynches,Euthanizations
 Lynched,Euthanized
@@ -187,8 +187,8 @@ the lynch,the euthanization
 a lynch,a euthanization
 additional lynch,additional euthanization
 upcoming lynch,upcoming euthanization
-lynch,euthanization
-Lynch,Euthanization
+lynch,euthanize
+Lynch,Euthanize
 Solo,Other Aquatic Life
 Wolfish,Aggressive-ish
 Demonized,Attached
@@ -211,7 +211,8 @@ Doom,Bite
 Soulless,Nutrientless
 Apocalypse,Piranha Time
 Vial,Dose
-Masking Cry,Fish Antibiotic
+Antidote,Fish Antibiotic
+Masking Cry,Masking Dart
 Striking Cry,Striking Dart
 Cry,Dart
 Cries,Darts
@@ -225,7 +226,7 @@ Packless,Solitary Aggressive Fish
 Coyote,Discus
 Journal,Molly Fry
 Jury,Diamond Tetra Group
-Fox,Some Aggressive Fish
+Fox,Less Aggressive Fish
 Wolves,Aggressive Fish
 Wolf,Jaguar Cichlid
 sleeps with another player,swims with another aquatic life
@@ -235,5 +236,7 @@ player to sleep with,aquatic life to swim with
 will stay with that player,with swim with that aquatic life
 not to sleep with anybody,not to swim with any aquatic life
 may not sleep with the same player,may not swim with the same aquatic life
+write any information,relay any information through the molly fry
 write,birth
 Channel,Tank
+Food,Fish food
