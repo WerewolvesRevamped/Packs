@@ -165,7 +165,7 @@ additional lynch,additional public execution
 upcoming lynch,upcoming public execution
 lynch,publicly execute
 Lynch,Publicly Execute
-Elected,Heaven Mandated
+Elected,Heaven-Mandated
 Solo,Outside Influence
 Wolfish,Rebelling
 Demonized,Poisoned
@@ -202,4 +202,3 @@ Miscellaneous,Unimportant
 Investigative,Fortune-telling
 Killing,Executing
 Align,Civilized
-Elected,Heaven-mandated
