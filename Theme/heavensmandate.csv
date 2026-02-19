@@ -173,7 +173,7 @@ Demonize,Poison
 Demonizes,Poisons
 Demonizing,Poisoning
 Holy Water,Sacred Water
-Player,Entity
+Player,Entities
 Knives,Sabres
 Doomsday,Occupation
 Doomed,Invaded
@@ -202,3 +202,4 @@ Miscellaneous,Unimportant
 Investigative,Fortune-telling
 Killing,Executing
 Align,Civilized
+Participant,Being
